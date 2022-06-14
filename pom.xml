@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.19.140:8081/repository/task-13thjune-release/</url>
+            <url>http://192.168.19.136:8081/repository/war-project-release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.19.140:8081/repository/task-13thjune-snap/</url>
+            <url>http://192.168.19.136:8081/repository/war-project-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
